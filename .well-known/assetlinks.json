@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.recipe_app",
+    "package_name": "br.com.socialbank.android.app",
     "sha256_cert_fingerprints":
-    ["1E:84:9A:48:BA:C9:3F:65:6C:6D:E6:EE:E4:7E:85:0E:FB:A3:F9:E7:C5:A1:1C:E5:F4:EE:F8:71:3D:BD:62:E3"]
+    ["11:B4:F4:28:AE:AC:A1:53:6B:B9:8E:91:B8:84:29:7C:FB:06:63:8A:59:AA:CE:11:01:0F:31:46:88:D7:1F:EA"]
   }
 }]
